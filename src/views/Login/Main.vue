@@ -33,8 +33,6 @@ export default {
 
 <style lang="scss" scoped>
   div {
-    width: 100vw;
-    height: 100vh;
     font-family: sans-serif;
     background: #34495e;
   }
